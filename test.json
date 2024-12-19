@@ -1,0 +1,55 @@
+{
+    "_meta": {
+        "sources": [
+            {
+            "json": "testhomebrew",
+            "full": "Tony's Repository",
+            "abbreviation": "TR",
+            "color": "92b233",
+            "authors": [
+                "Tony Mottes"
+            ],
+            "convertedBy": [
+                "Tony Mottes"
+            ],
+            "version": "1.0",
+            "url": "https://example.com/smith-basket-brew(1)_copy.pdf"
+            }
+        ],
+    "status": "wip",
+    "edition": "classic",
+    "dateAdded": 1734567848,
+    "dateLastModified": 1734567848
+    },
+    "table": [
+        {
+            "name": "test",
+            "source": "testhomebrew",
+            "page": 0,
+            "intro": [
+                "Optional intro entries."
+            ],
+            "caption":"",
+            "colLabels": [
+                "d2",
+                "Column 2"
+            ],
+            "rows": [
+                [
+                    "1",
+                    "This cell is row 1, column 2"
+                ],
+                [
+                    "2",
+                    "This cell is row 2, column 2"
+                ]
+            ],
+            "footnotes": [
+                "Reroll if you land a natural 20!."
+            ],
+            "outro": [
+            "Optional outro entries."
+            ]
+        }
+    ]
+}
